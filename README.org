@@ -1,0 +1,10 @@
+* cl-closure-template
+
+Common Lisp implementation of Google's Closure Templates.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/archimag/cl-closure-template.git   |
+| commit  | f1983aa  |
+| systems | cl-closure-template |
+|---------+-------------------------------------------|
+
