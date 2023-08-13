@@ -5,5 +5,5 @@ Common Lisp implementation of Google's Closure Templates.
 |---------+---------------------------------------------------------|
 | source  | git:https://github.com/archimag/cl-closure-template.git |
 | commit  | f1983aa                                                 |
-| systems | (closure-template)                                      |
+| systems | closure-template                                        |
 |---------+---------------------------------------------------------|
